@@ -4,7 +4,7 @@
 # $ bash init_project.sh && cd {ProjectName}
 
 # Config
-PROJECT_NAME="FileStream"
+PROJECT_NAME=""
 FULL_PATH=$(pwd)
 
 echo "-------------------------------------------"
